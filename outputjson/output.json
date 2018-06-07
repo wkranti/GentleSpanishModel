@@ -1,0 +1,188 @@
+[
+    {
+        "start": "0.03",
+        "stop": "0.29",
+        "name": "no",
+        "tier": "words"
+    },
+    {
+        "start": "0.43",
+        "stop": "0.55",
+        "name": "me",
+        "tier": "words"
+    },
+    {
+        "start": "0.55",
+        "stop": "0.77",
+        "name": "siento",
+        "tier": "words"
+    },
+    {
+        "start": "0.77",
+        "stop": "1.31",
+        "name": "demasiada",
+        "tier": "words"
+    },
+    {
+        "start": "1.31",
+        "stop": "1.58",
+        "name": "bien",
+        "tier": "words"
+    },
+    {
+        "start": "0.0",
+        "stop": "0.03",
+        "name": "sil",
+        "tier": "phones"
+    },
+    {
+        "start": "0.03",
+        "stop": "0.14",
+        "name": "n",
+        "tier": "phones"
+    },
+    {
+        "start": "0.14",
+        "stop": "0.29",
+        "name": "o",
+        "tier": "phones"
+    },
+    {
+        "start": "0.29",
+        "stop": "0.43",
+        "name": "sp",
+        "tier": "phones"
+    },
+    {
+        "start": "0.43",
+        "stop": "0.49",
+        "name": "m",
+        "tier": "phones"
+    },
+    {
+        "start": "0.49",
+        "stop": "0.55",
+        "name": "e",
+        "tier": "phones"
+    },
+    {
+        "start": "0.55",
+        "stop": "0.59",
+        "name": "s",
+        "tier": "phones"
+    },
+    {
+        "start": "0.59",
+        "stop": "0.63",
+        "name": "j",
+        "tier": "phones"
+    },
+    {
+        "start": "0.63",
+        "stop": "0.66",
+        "name": "e",
+        "tier": "phones"
+    },
+    {
+        "start": "0.66",
+        "stop": "0.7",
+        "name": "n",
+        "tier": "phones"
+    },
+    {
+        "start": "0.7",
+        "stop": "0.73",
+        "name": "t",
+        "tier": "phones"
+    },
+    {
+        "start": "0.73",
+        "stop": "0.77",
+        "name": "o",
+        "tier": "phones"
+    },
+    {
+        "start": "0.77",
+        "stop": "0.85",
+        "name": "d",
+        "tier": "phones"
+    },
+    {
+        "start": "0.85",
+        "stop": "0.9",
+        "name": "e",
+        "tier": "phones"
+    },
+    {
+        "start": "0.9",
+        "stop": "0.95",
+        "name": "m",
+        "tier": "phones"
+    },
+    {
+        "start": "0.95",
+        "stop": "1.03",
+        "name": "a",
+        "tier": "phones"
+    },
+    {
+        "start": "1.03",
+        "stop": "1.09",
+        "name": "s",
+        "tier": "phones"
+    },
+    {
+        "start": "1.09",
+        "stop": "1.16",
+        "name": "j",
+        "tier": "phones"
+    },
+    {
+        "start": "1.16",
+        "stop": "1.2",
+        "name": "a",
+        "tier": "phones"
+    },
+    {
+        "start": "1.2",
+        "stop": "1.25",
+        "name": "D",
+        "tier": "phones"
+    },
+    {
+        "start": "1.25",
+        "stop": "1.31",
+        "name": "a",
+        "tier": "phones"
+    },
+    {
+        "start": "1.31",
+        "stop": "1.37",
+        "name": "b",
+        "tier": "phones"
+    },
+    {
+        "start": "1.37",
+        "stop": "1.44",
+        "name": "j",
+        "tier": "phones"
+    },
+    {
+        "start": "1.44",
+        "stop": "1.5",
+        "name": "e",
+        "tier": "phones"
+    },
+    {
+        "start": "1.5",
+        "stop": "1.58",
+        "name": "ng",
+        "tier": "phones"
+    },
+    {
+        "start": "1.58",
+        "stop": "2.17",
+        "name": "sp",
+        "tier": "phones"
+    }
+]
